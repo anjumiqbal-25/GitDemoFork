@@ -10,3 +10,5 @@ Poland
 //Github -> Platform to upload and share git managed projects.
 //Gitlab
 //BitBucket -> Atlassian
+
+Changes made in B.txt via Github.
