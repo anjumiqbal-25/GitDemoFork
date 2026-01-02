@@ -7,6 +7,9 @@ Kolkata
 Chennai
 Nagpur
 Pune | Maharashtra.
-
+//random changes.
+Jodhpur
+Patna
+Haridwar
 
 Changes made via Github directly. 
